@@ -1,0 +1,22 @@
+1-peerflix        Magnet link is supported
+https://github.com/tryzniak/peerflix/tree/fix/unresponsive-with-list 
+npm install && node app.js
+
+
+2-aria2           Magnet link is not supported
+https://github.com/q3aql/aria2-static-builds        
+--show-files then --select-file and --summary-interval=5
+
+
+3-ctorrent Magnet link is not supported
+-x then -n 
+
+
+4-transmission-cli Magnet link is supported
+
+
+
+5-https://github.com/userdocs/qbittorrent-nox-static
+
+
+
