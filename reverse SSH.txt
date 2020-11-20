@@ -1,0 +1,8 @@
+ssh -p 59080 -f -N -T -R 0.0.0.0:3000:localhost:3000 cabox@host22.codeanyhost.com
+
+download qBittorrent.conf
+
+./amd64-glibc-qbittorrent-nox --daemon
+
+nano /etc/ssh/sshd_config
+GatewayPorts yes
