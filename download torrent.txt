@@ -12,11 +12,16 @@ https://github.com/q3aql/aria2-static-builds
 -x then -n 
 
 
-4-transmission-cli Magnet link is supported
+
+4-https://github.com/userdocs/qbittorrent-nox-static
 
 
 
-5-https://github.com/userdocs/qbittorrent-nox-static
+5-transmission-cli Magnet link is supported
+
+
+
+
 
 
 
